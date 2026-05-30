@@ -105,7 +105,7 @@
       "gpa": ""
     }
   ],
-  "skillContent": "<ul><li><p><strong>作为最早的Agent开发者之一，有丰富的Agent研发经验</strong>：熟练掌握langchain、langgraph、eino、ADK等各类Agent框架；熟悉ReAct、FunctionCall/MCP、PE、RAG等Agent开发技能；有Agent后训练、Action Trace回流、数据飞轮等Agent持续优化经验；对Transformer架构和GPU架构也有较深入的了解。</p></li><li><p><strong>有丰富的大型分布式系统高可用研发经验</strong>：在流控、缓存、隔离、调度等方面都有深入实践，能端到端负责服务的稳定性和高可用。熟悉掌握k8s系统和常用运维工具(kubectl、tcpdump、gdb等)。</p></li><li><p><strong>有扎实的开发基本功和AI Coding能力</strong>：熟练使用各类开发工具(如claude code、codex等AICoding工具以及各类IDE)，并形成了一套AI Coding范式，在部门分享并推广。熟练掌握Golang、Python、C/C++开发语言，有扎实的数据结构和算法基础。</p></li><li><p><strong>对前沿技术的持续热情</strong>：持续关注业内AI发展的最新动态，并多次进行部门范围的技术分享——在部门受到广泛的好评；</p></li></ul>",
+  "skillContent": "<ul><li><p><strong>资深 AI Agent 研发经验</strong>：作为公司内最早一批 Agent 开发者，熟练掌握 LangChain、LangGraph、Eino、ADK 等主流 Agent 框架；深入实践 ReAct、Function Call / MCP、Prompt Engineering、RAG 等核心技术；具备 Agent 后训练、Action Trace 回流、数据飞轮等持续优化的端到端落地经验；对 Transformer 与 GPU 架构有较深入的理解。</p></li><li><p><strong>大型分布式系统高可用研发经验</strong>：在流控、缓存、隔离、调度等方向有深入实践，能够端到端负责服务的稳定性与高可用建设；熟悉 Kubernetes 生态及常用运维工具（kubectl、tcpdump、gdb 等）。</p></li><li><p><strong>有扎实的开发基本功和AI Coding能力</strong>：熟练使用各类开发工具(如claude code、codex等AICoding工具以及各类IDE)，并形成了一套AI Coding方法论，在部门分享并推广。熟练掌握Golang、Python、C/C++开发语言，有扎实的数据结构和算法基础。</p></li><li><p><strong>对前沿技术持续热情</strong>：长期跟踪业界 AI 发展动态，多次主导部门级技术分享，推动团队认知与能力升级。</p></li></ul>",
   "selfEvaluationContent": "",
   "experience": [
     {
@@ -114,14 +114,14 @@
       "position": "基础架构·后端开发工程师",
       "date": "2023/07 - 至今",
       "visible": true,
-      "details": "<ul><li><p>Agent小组负责人(2025~至今)——主导完成了多个Agent的需求分析，方案设计与研发上线，取得了显著的业务收益；</p></li><li><p>稳定性组核心成员(2023~2024)——主导多项核心稳定性建设的方案设计与落地实施，在生产环境中持续验证方案有效性，切实收敛了各类稳定性问题，提升了系统稳定性。</p></li></ul>"
+      "details": "<ul><li><p><strong>Agent 小组负责人</strong>（2025 - 至今）：主导多个 Agent 项目的需求分析、方案设计与研发上线，端到端推动落地并取得显著业务收益。</p></li><li><p><strong>稳定性组核心成员</strong>（2023 - 2024）：主导多项核心稳定性建设的方案设计与实施，在生产环境中持续稳定运行验证了有效性，有效收敛各类稳定性问题，显著提升系统整体可用性。</p></li></ul>"
     },
     {
       "id": "8d3f5f0c-2610-494f-a06a-2d81b9574fc7",
       "company": "字节跳动",
       "position": "GPU池化计算·后端开发实习",
       "date": "2022/04 - 2022/09",
-      "details": "<ul><li><p>负责GPU池化计算组件的部分特性，对CUDA推理框架、NVIDIA GPU架构有一定了解。</p></li></ul>",
+      "details": "<ul><li><p>负责 GPU 池化计算组件的部分核心特性研发，对 CUDA 推理框架与 NVIDIA GPU 架构有一定理解。</p></li></ul>",
       "visible": true
     }
   ],
@@ -129,18 +129,18 @@
   "projects": [
     {
       "id": "3bfcc59e-ce69-432a-bab3-f70b712cc440",
-      "name": "多个Agent业务",
+      "name": "多个 AI Agent 业务",
       "role": "小组负责人",
       "date": "2025/02 - 至今",
-      "description": "<p>作为Agent小组负责人，带领多位同事完成了多个Agent的端到端交付，并设计了Agent后训练框架，持续优化这些Agent。主要的业务Agent有：</p><ol><li><p>告警诊断Agent——为EB级别的分布式存储服务设计并实现了问题快速定位的运维Agent，<strong>将告警诊断时长从10分钟以上缩短到2分钟以内</strong>，<strong>准确率超过95%，获得同事一致好评。作为司内发布最早的AIOpsAgent，这套范式被复用到多个其他部门。</strong></p></li><li><p>TOS智能助理Agent——基于text2sql+RAG+内部知识库+日志系统+基础信息查询系统，实现了TOS业务实时分析Agent，在TOS<strong>日志分析、疑难问题分析、运营数据统计</strong>等方面都<strong>获得一致好评，作为司内发布最早的日志分析类Agent，这套范式被复用到多个其他部门。被评为“2025存储团队最好用的工具”。</strong></p></li></ol>",
+      "description": "<p>作为 Agent 小组负责人，带领团队完成多个 Agent 的端到端交付，并搭建了 Agent 后训练框架以支撑业务持续迭代优化。代表性项目：</p><ol><li><p><strong>告警诊断 Agent</strong>——面向 EB 级分布式存储服务，设计并实现问题快速定位的运维 Agent，<strong>将告警诊断时长从 10 分钟以上缩短至 2 分钟以内，准确率超过 95%</strong>；作为公司内最早发布的 AIOps Agent 之一，相关研发范式被多个兄弟部门复用。</p></li><li><p><strong>TOS 智能助理 Agent</strong>——基于 Text2SQL + RAG + 内部知识库 + 日志系统 + 基础信息查询系统，构建 TOS 业务实时分析 Agent，覆盖<strong>日志分析、疑难问题定位、运营数据统计</strong>等场景；作为公司内最早发布的日志分析类 Agent 之一，研发范式被多个兄弟部门复用，<strong>被评为“2025 存储团队最好用的工具”</strong>。</p></li></ol>",
       "visible": true
     },
     {
       "id": "57297499-adaa-47c6-9b8d-304f93d22503",
-      "name": "高可用与稳定性",
+      "name": "高可用与稳定性建设",
       "role": "业务负责人",
       "date": "2023/11 - 2025/06",
-      "description": "<p>为大型分布式服务设计并落地了多个稳定性相关的核心组件/特性，主要包括流控、缓存、隔离、调度等方面。</p><p></p>",
+      "description": "<p>为大型分布式服务设计并落地多个稳定性核心组件与特性，覆盖流控、缓存、隔离、调度等关键方向，显著提升服务稳定性与高可用性能。</p><p></p>",
       "visible": true
     }
   ],
@@ -183,13 +183,13 @@
   ],
   "certificates": [],
   "customData": {},
-  "activeSection": "experience",
+  "activeSection": "skills",
   "globalSettings": {
     "baseFontSize": 16,
-    "pagePadding": 13,
-    "paragraphSpacing": 1,
+    "pagePadding": 26,
+    "paragraphSpacing": 3,
     "lineHeight": 1.5,
-    "sectionSpacing": 1,
+    "sectionSpacing": 5,
     "headerSize": 18,
     "subheaderSize": 16,
     "useIconMode": true,
@@ -199,6 +199,6 @@
   },
   "id": "aad08858-f058-49d9-b75c-124e5cffafe0",
   "createdAt": "2026-05-27T13:25:19.167Z",
-  "updatedAt": "2026-05-30T16:03:00.260Z",
+  "updatedAt": "2026-05-30T16:40:05.007Z",
   "templateId": "classic"
 }

@@ -1,0 +1,204 @@
+{
+  "title": "王雁林-15908474483-快手",
+  "basic": {
+    "name": "王雁林",
+    "title": "后端/架构/Agent相关",
+    "employementStatus": "当前在职·字节跳动",
+    "email": "1016448538@qq.com",
+    "phone": "15908474483",
+    "location": " 四川省成都市武侯区",
+    "birthDate": "1996/10",
+    "fieldOrder": [
+      {
+        "id": "1",
+        "key": "name",
+        "label": "姓名",
+        "type": "text",
+        "visible": true
+      },
+      {
+        "id": "2",
+        "key": "title",
+        "label": "职位",
+        "type": "text",
+        "visible": true
+      },
+      {
+        "id": "3",
+        "key": "employementStatus",
+        "label": "状态",
+        "type": "text",
+        "visible": true
+      },
+      {
+        "id": "4",
+        "key": "birthDate",
+        "label": "生日",
+        "type": "date",
+        "visible": true
+      },
+      {
+        "id": "5",
+        "key": "email",
+        "label": "邮箱",
+        "type": "text",
+        "visible": true
+      },
+      {
+        "id": "6",
+        "key": "phone",
+        "label": "电话",
+        "type": "text",
+        "visible": true
+      },
+      {
+        "id": "7",
+        "key": "location",
+        "label": "所在地",
+        "type": "text",
+        "visible": false
+      }
+    ],
+    "icons": {
+      "email": "Mail",
+      "phone": "Phone",
+      "birthDate": "CalendarRange",
+      "employementStatus": "Briefcase",
+      "location": "MapPin"
+    },
+    "photoConfig": {
+      "width": 90,
+      "height": 120,
+      "aspectRatio": "1:1",
+      "borderRadius": "none",
+      "customBorderRadius": 0,
+      "visible": false
+    },
+    "customFields": [],
+    "photo": "/avatar.png",
+    "githubKey": "",
+    "githubUseName": "",
+    "githubContributionsVisible": false,
+    "layout": "left"
+  },
+  "education": [
+    {
+      "id": "1",
+      "school": "四川大学",
+      "major": "计算机技术",
+      "degree": "硕士",
+      "startDate": "2020/09",
+      "endDate": "2023/06",
+      "visible": true,
+      "gpa": "",
+      "description": "<ul><li><p><strong>论文</strong>：使用transformer架构，在基于视频的姿态估计方向，<strong>算法效果达到SOTA（2022~2023）</strong>—— 王雁林.基于视频的人体姿态估计方法优化研究[D].四川大学,2023.DOI:10.27342/d.cnki.gscdu.2023.000626.</p></li></ul>"
+    },
+    {
+      "id": "cdac3a7a-2578-4801-9c34-0e1e0ee2bf6e",
+      "school": "西南科技大学",
+      "major": "计算机科学与技术",
+      "degree": "本科",
+      "startDate": "2015-09-01",
+      "endDate": "2019-06-30",
+      "description": "<ul><li><p><strong>比赛获奖</strong>：百度之星开发者大赛（2018深度学习任务）全国第14名；蓝桥杯程序设计大赛四川省一等奖及全国三等奖；“中青杯”全国大学习数学建模竞赛全国二等奖；“数创杯”数学建模挑战赛全国三等奖。</p></li><li><p><strong>证书/荣誉</strong>：CCF CSP认证（排名全国前16%）；CET6；国家励志奖学金；优秀毕业生；</p></li></ul>",
+      "visible": true,
+      "gpa": ""
+    }
+  ],
+  "skillContent": "<ul><li><p><strong>AI Agent 研发丰富经验</strong>：作为公司内最早一批 Agent 开发者，熟练掌握 LangChain、LangGraph、Eino、ADK 等主流 Agent 框架；深入实践 ReAct、Function Call / MCP、Prompt Engineering、RAG 等核心技术；具备 Agent 后训练、Action Trace 回流、数据飞轮等持续优化的端到端落地经验；对 Transformer 与 GPU 架构有较深入的理解。</p></li><li><p><strong>大型分布式系统高可用研发经验</strong>：在流控、缓存、隔离、调度等方向有深入实践，能够端到端负责服务的稳定性与高可用建设；熟悉 Kubernetes 生态及常用运维工具（kubectl、tcpdump、gdb 等）。</p></li><li><p><strong>有扎实的开发基本功和AI Coding能力</strong>：熟练使用各类开发工具(如claude code、codex等AICoding工具以及各类IDE)，并形成了一套AI Coding方法论，在部门分享并推广。熟练掌握Golang、Python、C/C++开发语言，有扎实的数据结构和算法基础。</p></li><li><p><strong>对前沿技术持续热情</strong>：长期跟踪业界 AI 发展动态，多次主导部门级技术分享，推动团队认知与能力升级。</p></li></ul>",
+  "selfEvaluationContent": "",
+  "experience": [
+    {
+      "id": "1",
+      "company": "字节跳动",
+      "position": "基础架构·后端开发工程师",
+      "date": "2023/07 - 至今",
+      "visible": true,
+      "details": "<ul><li><p><strong>Agent 小组负责人</strong>（2025 - 至今）：主导多个 Agent 项目的需求分析、方案设计与研发上线，端到端推动落地并取得显著业务收益。</p></li><li><p><strong>稳定性组核心成员</strong>（2023 - 2024）：主导多项核心稳定性建设的方案设计与实施，在生产环境中持续稳定运行验证了有效性，有效收敛各类稳定性问题，显著提升系统整体可用性。</p></li></ul>"
+    },
+    {
+      "id": "8d3f5f0c-2610-494f-a06a-2d81b9574fc7",
+      "company": "字节跳动",
+      "position": "GPU池化计算·后端开发实习",
+      "date": "2022/04 - 2022/09",
+      "details": "<ul><li><p>负责 GPU 池化计算的部分特性研发——项目需要适配NVIDIA各类显卡进行异构计算资源的池化、隔离、流控，我主要负责流控部分。</p></li></ul>",
+      "visible": true
+    }
+  ],
+  "draggingProjectId": null,
+  "projects": [
+    {
+      "id": "3bfcc59e-ce69-432a-bab3-f70b712cc440",
+      "name": "多个 AI Agent 业务",
+      "role": "方向POC/小组负责人",
+      "date": "2025/02 - 至今",
+      "description": "<p>作为 Agent 小组负责人，带领团队完成多个 Agent 的端到端交付，并搭建了 Agent 后训练框架以支撑业务持续迭代优化。代表性项目：</p><ol><li><p><strong>告警诊断 Agent</strong>——面向 EB 级分布式存储服务，设计并实现问题快速定位的运维 Agent，<strong>将告警诊断时长从 10 分钟以上缩短至 3 分钟以内(p99)，准确率超过 95%</strong>；作为公司内最早发布的 AIOps Agent 之一，相关研发范式被多个兄弟部门复用。</p></li><li><p><strong>TOS 智能助理 Agent</strong>——基于 Text2SQL + RAG + 内部知识库 + 日志系统 + 基础信息查询系统，构建 TOS 业务实时分析 Agent，覆盖<strong>日志分析、疑难问题定位、运营数据统计</strong>等场景；作为公司内最早发布的日志分析类 Agent 之一，研发范式被多个兄弟部门复用，<strong>被评为“2025 存储团队最好用的工具”</strong>。</p></li></ol>",
+      "visible": true
+    },
+    {
+      "id": "57297499-adaa-47c6-9b8d-304f93d22503",
+      "name": "高可用与稳定性建设",
+      "role": "业务负责人",
+      "date": "2023/11 - 2025/06",
+      "description": "<p>为大型分布式服务设计并落地多个稳定性核心组件与特性，覆盖流控、缓存、隔离、调度、降级等关键稳定性保障手段，显著提升服务稳定性与高可用性能。</p><ol><li><p><strong>流控业务算法</strong>：使用令牌桶作为基础算法落地流控Server侧算法；借鉴卡尔曼滤波思想实现了SDK侧流量平滑估算算法。</p></li><li><p><strong>稳定性手段</strong>：设计并实现了业务分组调度、镜像流量灰度、Server侧配额缓存、流控3级降级等稳定性关键手段</p></li></ol>",
+      "visible": true
+    }
+  ],
+  "menuSections": [
+    {
+      "id": "basic",
+      "title": "基本信息",
+      "icon": "👤",
+      "enabled": true,
+      "order": 0
+    },
+    {
+      "id": "skills",
+      "title": "专业技能",
+      "icon": "⚡",
+      "enabled": true,
+      "order": 1
+    },
+    {
+      "id": "experience",
+      "title": "工作经验",
+      "icon": "💼",
+      "enabled": true,
+      "order": 2
+    },
+    {
+      "id": "projects",
+      "title": "项目经历",
+      "icon": "🚀",
+      "enabled": true,
+      "order": 3
+    },
+    {
+      "id": "education",
+      "title": "教育经历",
+      "icon": "🎓",
+      "enabled": true,
+      "order": 4
+    }
+  ],
+  "certificates": [],
+  "customData": {},
+  "activeSection": "projects",
+  "globalSettings": {
+    "baseFontSize": 16,
+    "pagePadding": 26,
+    "paragraphSpacing": 3,
+    "lineHeight": 1.5,
+    "sectionSpacing": 5,
+    "headerSize": 18,
+    "subheaderSize": 16,
+    "useIconMode": true,
+    "themeColor": "#000000",
+    "centerSubtitle": true,
+    "autoOnePage": false
+  },
+  "id": "aad08858-f058-49d9-b75c-124e5cffafe0",
+  "createdAt": "2026-05-27T13:25:19.167Z",
+  "updatedAt": "2026-06-02T13:39:41.400Z",
+  "templateId": "classic"
+}

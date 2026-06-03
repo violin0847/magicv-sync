@@ -105,7 +105,7 @@
       "gpa": ""
     }
   ],
-  "skillContent": "<ul><li><p><strong>AI Agent 研发丰富经验</strong>：作为公司内最早一批 Agent 开发者，熟练掌握 LangChain、LangGraph、Eino、ADK 等主流 Agent 框架；深入实践 ReAct、Function Call / MCP、Prompt Engineering、RAG 等核心技术；具备 Agent 后训练、Action Trace 回流、数据飞轮等持续优化的端到端落地经验；对 Transformer 与 GPU 架构有较深入的理解。</p></li><li><p><strong>大型分布式系统高可用研发经验</strong>：在流控、缓存、隔离、调度等方向有深入实践，能够端到端负责服务的稳定性与高可用建设；熟悉 Kubernetes 生态及常用运维工具（kubectl、tcpdump、gdb 等）。</p></li><li><p><strong>有扎实的开发基本功和AI Coding能力</strong>：熟练使用各类开发工具(如claude code、codex等AICoding工具以及各类IDE)，并形成了一套AI Coding方法论，在部门分享并推广。熟练掌握Golang、Python、C/C++开发语言，有扎实的数据结构和算法基础。</p></li><li><p><strong>对前沿技术持续热情</strong>：长期跟踪业界 AI 发展动态，多次主导部门级技术分享，推动团队认知与能力升级。</p></li></ul>",
+  "skillContent": "<ul><li><p><strong>AI Agent 研发丰富经验</strong>：作为公司内最早一批 Agent 开发者，熟练掌握 LangChain、LangGraph、Eino、ADK 等主流 Agent 框架；深入实践 ReAct、Function Call / MCP、Prompt Engineering、RAG 等核心技术；具备 Agent 后训练、Action Trace 回流、数据飞轮等持续优化的端到端落地经验；对 Transformer 与 GPU 架构有较深入的理解。</p></li><li><p><strong>大型分布式系统高可用研发经验</strong>：在流控、缓存、隔离、调度等方向有深入实践，能够端到端负责服务的稳定性与高可用建设；熟悉 Kubernetes 生态及常用运维工具（kubectl、tcpdump、gdb 等）。</p></li><li><p><strong>有扎实的开发基本功和AI Coding能力</strong>：熟练使用各类开发工具(如claude code、codex等AICoding工具以及各类IDE)，并形成了一套AI Coding方法论，在部门分享并推广。熟练掌握Golang、Python、C/C++开发语言，有扎实的数据结构和算法基础。</p></li><li><p><strong>对前沿技术持续热情</strong>：长期跟踪业界 AI 发展动态，多次主导部门级技术分享，通过分享会孵化出一些Agent项目。</p></li></ul>",
   "selfEvaluationContent": "",
   "experience": [
     {
@@ -114,7 +114,7 @@
       "position": "基础架构·后端开发工程师",
       "date": "2023/07 - 至今",
       "visible": true,
-      "details": "<ul><li><p><strong>Agent 小组负责人</strong>（2025 - 至今）：主导多个 Agent 项目的需求分析、方案设计与研发上线，端到端推动落地并取得显著业务收益。</p></li><li><p><strong>稳定性组核心成员</strong>（2023 - 2024）：主导多项核心稳定性建设的方案设计与实施，在生产环境中持续稳定运行验证了有效性，有效收敛各类稳定性问题，显著提升系统整体可用性。</p></li></ul>"
+      "details": "<p>（2025.2 - 至今）<strong>Agent 小组负责人/方向POC</strong>：主导多个 Agent 项目的需求分析、方案设计与研发上线，带领小组端到端落地并取得显著业务收益。与此同时，搭建了 Agent 后训练框架以支撑业务持续迭代优化。代表性项目：</p><ol><li><p><strong>告警诊断 Agent</strong>——面向 EB 级分布式存储服务，设计并实现问题快速定位的运维 Agent，<strong>将告警诊断时长从 10 分钟以上缩短至 3 分钟以内(p99)，准确率超过 95%</strong>；作为公司内最早发布的 AIOps Agent 之一，相关研发范式被多个兄弟部门复用。</p></li><li><p><strong>TOS 智能助理 Agent</strong>——基于 Text2SQL + RAG + 内部知识库 + 日志系统 + 基础信息查询系统，构建 TOS 业务实时分析 Agent，覆盖<strong>日志分析、疑难问题定位、运营数据统计</strong>等场景；作为公司内最早发布的日志分析类 Agent 之一，研发范式被多个兄弟部门复用，<strong>被评为“2025 存储团队最好用的工具”</strong>。</p></li></ol><p></p><p>（2023.7 - 2025.2）<strong>稳定性组核心成员</strong>：为大型分布式服务设计并落地多个稳定性核心组件与特性，覆盖流控、缓存、隔离、调度、降级等关键稳定性保障手段，显著提升服务稳定性与高可用性能。</p><ol><li><p><strong>流控业务算法</strong>：使用令牌桶作为基础算法落地流控Server侧算法；借鉴卡尔曼滤波思想实现了SDK侧流量平滑估算算法。</p></li><li><p><strong>稳定性手段</strong>：设计并实现了业务分组调度、镜像流量灰度、Server侧配额缓存、流控3级降级等稳定性关键手段</p></li></ol>"
     },
     {
       "id": "8d3f5f0c-2610-494f-a06a-2d81b9574fc7",
@@ -126,24 +126,7 @@
     }
   ],
   "draggingProjectId": null,
-  "projects": [
-    {
-      "id": "3bfcc59e-ce69-432a-bab3-f70b712cc440",
-      "name": "多个 AI Agent 业务",
-      "role": "方向POC/小组负责人",
-      "date": "2025/02 - 至今",
-      "description": "<p>作为 Agent 小组负责人，带领团队完成多个 Agent 的端到端交付，并搭建了 Agent 后训练框架以支撑业务持续迭代优化。代表性项目：</p><ol><li><p><strong>告警诊断 Agent</strong>——面向 EB 级分布式存储服务，设计并实现问题快速定位的运维 Agent，<strong>将告警诊断时长从 10 分钟以上缩短至 3 分钟以内(p99)，准确率超过 95%</strong>；作为公司内最早发布的 AIOps Agent 之一，相关研发范式被多个兄弟部门复用。</p></li><li><p><strong>TOS 智能助理 Agent</strong>——基于 Text2SQL + RAG + 内部知识库 + 日志系统 + 基础信息查询系统，构建 TOS 业务实时分析 Agent，覆盖<strong>日志分析、疑难问题定位、运营数据统计</strong>等场景；作为公司内最早发布的日志分析类 Agent 之一，研发范式被多个兄弟部门复用，<strong>被评为“2025 存储团队最好用的工具”</strong>。</p></li></ol>",
-      "visible": true
-    },
-    {
-      "id": "57297499-adaa-47c6-9b8d-304f93d22503",
-      "name": "高可用与稳定性建设",
-      "role": "业务负责人",
-      "date": "2023/11 - 2025/06",
-      "description": "<p>为大型分布式服务设计并落地多个稳定性核心组件与特性，覆盖流控、缓存、隔离、调度、降级等关键稳定性保障手段，显著提升服务稳定性与高可用性能。</p><ol><li><p><strong>流控业务算法</strong>：使用令牌桶作为基础算法落地流控Server侧算法；借鉴卡尔曼滤波思想实现了SDK侧流量平滑估算算法。</p></li><li><p><strong>稳定性手段</strong>：设计并实现了业务分组调度、镜像流量灰度、Server侧配额缓存、流控3级降级等稳定性关键手段</p></li></ol>",
-      "visible": true
-    }
-  ],
+  "projects": [],
   "menuSections": [
     {
       "id": "basic",
@@ -167,13 +150,6 @@
       "order": 2
     },
     {
-      "id": "projects",
-      "title": "项目经历",
-      "icon": "🚀",
-      "enabled": true,
-      "order": 3
-    },
-    {
       "id": "education",
       "title": "教育经历",
       "icon": "🎓",
@@ -183,10 +159,10 @@
   ],
   "certificates": [],
   "customData": {},
-  "activeSection": "projects",
+  "activeSection": "experience",
   "globalSettings": {
     "baseFontSize": 16,
-    "pagePadding": 26,
+    "pagePadding": 27,
     "paragraphSpacing": 3,
     "lineHeight": 1.5,
     "sectionSpacing": 5,
@@ -197,8 +173,8 @@
     "centerSubtitle": true,
     "autoOnePage": false
   },
-  "id": "aad08858-f058-49d9-b75c-124e5cffafe0",
+  "id": "bad08858-f058-49d9-b75c-124e5cffafe2",
   "createdAt": "2026-05-27T13:25:19.167Z",
-  "updatedAt": "2026-06-02T13:39:41.400Z",
+  "updatedAt": "2026-06-03T03:11:49.420Z",
   "templateId": "classic"
 }

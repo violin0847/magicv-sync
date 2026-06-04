@@ -159,7 +159,7 @@
   ],
   "certificates": [],
   "customData": {},
-  "activeSection": "experience",
+  "activeSection": "skills",
   "globalSettings": {
     "baseFontSize": 16,
     "pagePadding": 27,
@@ -175,6 +175,6 @@
   },
   "id": "bad08858-f058-49d9-b75c-124e5cffafe2",
   "createdAt": "2026-05-27T13:25:19.167Z",
-  "updatedAt": "2026-06-03T11:03:40.079Z",
+  "updatedAt": "2026-06-04T07:42:39.359Z",
   "templateId": "classic"
 }

@@ -750,17 +750,17 @@ type Message =
 
 # 附录：架构示意图
 ## A. 整体架构
-![whiteboard](Claude Code 源码详细设计方案_assets/whiteboard_01.jpg)
+![whiteboard](ClaudeCode源码详细设计方案_assets/whiteboard_01.jpg)
 
 <!-- whiteboard token: TZ4Dwn2RphKDTObV2YBcZGg3nMf -->
 
 ## B. QueryEngine 主循环
-![whiteboard](Claude Code 源码详细设计方案_assets/whiteboard_02.jpg)
+![whiteboard](ClaudeCode源码详细设计方案_assets/whiteboard_02.jpg)
 
 <!-- whiteboard token: EJQ9wEirfhqTOtbnWWZceYVSnCh -->
 
 ## C. 记忆系统三层
-![whiteboard](Claude Code 源码详细设计方案_assets/whiteboard_03.jpg)
+![whiteboard](ClaudeCode源码详细设计方案_assets/whiteboard_03.jpg)
 
 <!-- whiteboard token: FkzmwASvuhZAO9bnzWacer99n8b -->
 

@@ -114,14 +114,14 @@
       "position": "基础架构·后端开发工程师",
       "date": "2023/07 - 至今",
       "visible": true,
-      "details": "<p>（2025.2 - 至今）<strong>Agent 小组负责人/方向POC</strong>：主导多个 Agent 项目的需求分析、方案设计与研发落地，带领小组取得显著业务收益。与此同时，探索出一套持续迭代优化的工作流程。代表性项目：</p><ol><li><p><strong>告警诊断 Agent</strong>——面向 EB 级分布式存储服务，设计并实现问题快速定位的运维 Agent，<strong>将告警诊断时长从 10 分钟以上缩短至 3 分钟以内(p99)，准确率超过 95%</strong>；作为公司内最早发布的 AIOps Agent 之一，相关研发范式被多个兄弟部门复用。</p></li><li><p><strong>TOS 智能助理 Agent</strong>——基于 Text2SQL + RAG + 内部知识库 + 日志系统 + 基础信息查询系统，构建 TOS 业务实时分析 Agent，覆盖<strong>日志分析、疑难问题定位、运营数据统计</strong>等场景；作为公司内最早发布的日志分析类 Agent 之一，研发范式被多个兄弟部门复用，<strong>被评为“2025 存储团队最好用的工具”</strong>。</p></li></ol><p></p><p>（2023.7 - 2025.2）<strong>稳定性组核心成员</strong>：为大型分布式服务设计并落地多个稳定性核心组件与特性，覆盖流控、缓存、隔离、调度、降级等关键稳定性保障手段，将因流量失控导致的故障数由一年4~6次收敛到0~1次，显著提升服务稳定性与高可用性能。</p><ol><li><p><strong>流控业务算法</strong>：使用令牌桶思想，落地了贴近业务的分布式流控算法。</p></li><li><p><strong>稳定性手段</strong>：设计并实现了业务分组调度、镜像流量灰度、Server侧配额缓存、流控3级降级等稳定性关键手段。</p></li></ol>"
+      "details": "<p>（2025.2 - 至今）<strong>Agent 小组负责人/方向POC</strong>：主导多个 Agent 项目的需求分析、方案设计与研发落地，带领小组取得显著业务收益。与此同时，探索出一套持续迭代优化的工作流程。代表性项目：</p><ol><li><p><strong>告警诊断 Agent</strong>——面向 EB 级分布式存储服务，设计并实现问题快速定位的运维 Agent，<strong>将告警诊断时长从 10 分钟以上缩短至 3 分钟以内(p99)，准确率超过 95%</strong>；作为公司内最早发布的 AIOps Agent 之一，相关研发范式被多个兄弟部门复用。</p></li><li><p><strong>TOS 智能助理 Agent</strong>——基于 Text2SQL + RAG + 内部知识库 + 日志系统 + 基础信息查询系统，构建 TOS 业务实时分析 Agent，覆盖<strong>日志分析、疑难问题定位、运营数据统计</strong>等场景，当前内部用户数200+，活跃用户100+，日均会话40+；作为公司内最早发布的日志分析类 Agent，此workflow被多个兄弟部门复用，<strong>被评为“2025 存储团队最好用的工具”</strong>。</p></li></ol><p></p><p>（2023.7 - 2025.2）<strong>稳定性组核心成员</strong>：为大型分布式服务设计并落地多个稳定性核心组件与特性，覆盖流控、缓存、隔离、调度、降级等关键稳定性保障手段，将因流量失控导致的故障数由一年4~6次收敛到0~1次，显著提升服务稳定性与高可用性能。</p><ol><li><p><strong>流控业务算法</strong>：使用令牌桶思想，落地了贴近业务的分布式流控算法。</p></li><li><p><strong>稳定性手段</strong>：设计并实现了业务分组调度、镜像流量灰度、Server侧配额缓存、流控3级降级等稳定性关键手段。</p></li></ol>"
     },
     {
       "id": "8d3f5f0c-2610-494f-a06a-2d81b9574fc7",
       "company": "字节跳动",
       "position": "GPU池化计算·后端开发实习",
       "date": "2022/04 - 2022/09",
-      "details": "<p>参与 GPU 池化计算系统研发，面向 NVIDIA 多型号显卡实现异构算力的池化、隔离与流控；独立负责 nvidia-smi ioctl Hook 的设计与实现，在虚拟化算力场景下还原并适配真实显卡的命令输出，保证上层工具与监控的兼容性；同时负责系统的快速集成部署与测试用例编写，搭建自动化测试流程，提升交付质量与迭代效率</p><p></p>",
+      "details": "<p>参与 GPU 池化计算系统研发，面向 NVIDIA 多型号显卡实现异构算力的池化、隔离与流控；独立负责 nvidia-smi ioctl Hook 的设计与实现，保障了GPU池化场景的GPU driver兼容性与稳定性。</p><p></p>",
       "visible": true
     }
   ],
@@ -159,7 +159,7 @@
   ],
   "certificates": [],
   "customData": {},
-  "activeSection": "skills",
+  "activeSection": "experience",
   "globalSettings": {
     "baseFontSize": 16,
     "pagePadding": 27,
@@ -175,6 +175,6 @@
   },
   "id": "bad08858-f058-49d9-b75c-124e5cffafe2",
   "createdAt": "2026-05-27T13:25:19.167Z",
-  "updatedAt": "2026-06-04T09:00:12.403Z",
+  "updatedAt": "2026-06-09T03:45:09.737Z",
   "templateId": "classic"
 }

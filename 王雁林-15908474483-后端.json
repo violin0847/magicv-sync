@@ -105,7 +105,7 @@
       "gpa": ""
     }
   ],
-  "skillContent": "<ul><li><p><strong>有扎实的开发基本功和AI Coding能力</strong>：熟练使用各类 AI Coding 工具（如 Claude Code、Codex 等）及主流 IDE，并形成了一套AI Coding方法论，在部门分享并在公司内推广。熟练掌握Golang、Python、C/C++开发语言，有扎实的数据结构和算法基础。</p></li><li><p><strong>大型分布式系统高可用研发经验</strong>：在流控、缓存、隔离、调度等方向有深入实践，能够端到端负责服务的稳定性与高可用建设；熟悉 Kubernetes 生态及常用运维工具（kubectl、tcpdump、gdb 等）。</p></li><li><p><strong>AI Agent 研发丰富经验</strong>：作为公司内最早一批 Agent 开发者，熟练掌握 LangChain、LangGraph、Eino、ADK 等主流 Agent 框架；深入实践 ReAct、Function Call / MCP、Prompt Engineering、RAG 等核心技术；具备 Agent 后训练、Action Trace 回流、数据飞轮等持续优化的端到端落地经验；对 Transformer 与 GPU 架构有较深入的理解。</p></li><li><p><strong>对前沿技术持续热情</strong>：长期跟踪业界 AI 发展动态，多次主导部门级技术分享，通过分享会孵化出多个 Agent 项目并落地。</p></li></ul>",
+  "skillContent": "<ul><li><p><strong>有扎实的开发基本功和AI Coding能力</strong>：熟练使用各类 AI Coding 工具（如 Claude Code、Codex 等）及主流 IDE，并形成了一套AI Coding方法论，在部门分享并在公司内推广。熟练掌握Golang、Python、C/C++开发语言，有扎实的数据结构和算法基础。</p></li><li><p><strong>大型分布式系统高可用研发经验</strong>：在流控、缓存、隔离、调度等方向有深入实践，能够端到端负责服务的稳定性与高可用建设；熟悉 Kubernetes 生态及常用运维工具（kubectl、tcpdump、gdb 等）。</p></li><li><p><strong>数据库与存储系统实战经验</strong>：熟练掌握 MySQL、PostgreSQL 等关系型数据库，深入理解 InnoDB 存储引擎、事务隔离级别、MVCC 与索引原理，具备 SQL 调优、慢查询排查、分库分表、读写分离等实战经验；熟悉 Redis、MongoDB 等 NoSQL 数据库，在缓存设计、热点 Key 治理、持久化与高可用部署方面有深入实践；了解 Elasticsearch、ClickHouse 等检索与 OLAP 引擎，并熟悉向量数据库（Milvus、Faiss）在 RAG 场景下的应用与调优。</p></li><li><p><strong>AI Agent 研发丰富经验</strong>：作为公司内最早一批 Agent 开发者，熟练掌握 LangChain、LangGraph、Eino、ADK 等主流 Agent 框架；深入实践 ReAct、Function Call / MCP、Prompt Engineering、RAG 等核心技术；具备 Agent 后训练、Action Trace 回流、数据飞轮等持续优化的端到端落地经验；对 Transformer 与 GPU 架构有较深入的理解。</p></li><li><p><strong>对前沿技术持续热情</strong>：长期跟踪业界 AI 发展动态，多次主导部门级技术分享，通过分享会孵化出多个 Agent 项目并落地。</p></li></ul>",
   "selfEvaluationContent": "",
   "experience": [
     {
@@ -175,6 +175,6 @@
   },
   "id": "4BC0D8DC-DDDE-47AD-957A-998F05BCC667",
   "createdAt": "2026-05-27T13:25:19.167Z",
-  "updatedAt": "2026-06-11T08:30:39.690Z",
+  "updatedAt": "2026-06-11T08:42:31.829Z",
   "templateId": "classic"
 }
